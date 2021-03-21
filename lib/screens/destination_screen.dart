@@ -169,7 +169,7 @@ class _DestinationScreenState extends State<DestinationScreen> {
                                       fontSize: 22.0,
                                       fontWeight: FontWeight.w600,
                                       letterSpacing: 1.0,
-                                    ),
+                                    ),``
                                     overflow: TextOverflow.ellipsis,
                                     maxLines: 2,
                                   ),
