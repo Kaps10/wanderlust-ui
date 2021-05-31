@@ -1,6 +1,6 @@
 # wanderlust
 
-A simple, native flutter application UI designed and developed for travelling. A user can explore various options for travelling arounf the world and can filter the destination acoording to their needs. Cupertino widgets are also used for better user interface. The user can also check and search for different hotels and places all around the world.
+A simple, native flutter application UI designed and developed for travelling. A user can explore various options for travelling arounf the world and can filter the destination acoording to their needs. Cupertino widgets are also used for better user interface and varoius animations are also implemented. The user can also check and search for different hotels and places all around the world.
 
 Technology Used:
 
